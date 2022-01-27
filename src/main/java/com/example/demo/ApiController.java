@@ -24,7 +24,7 @@ public class ApiController {
 		logger.info("just test");
 		
 		User u = new User();
-		u.setName("abctest");
+		u.setName("abctest-v2");
 		return u;
 	}
 	
